@@ -1,0 +1,10 @@
+opensearch:
+    credentials:
+        username: admin
+        password: Admin123@
+    domain:
+        endpoint: https://search-semantic-search-cowwim2vkfutuxprmkayrhtrte.us-east-2.es.amazonaws.com
+jumpstart:
+    text_gen_endpoint_name: flan-xxl-1690394906
+    text_embed_endpoint_name: huggingface-textembedding-gpt-j-6b-fp16-1690393969
+    
